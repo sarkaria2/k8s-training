@@ -12,7 +12,7 @@ spec:
       containers:
       - name: api-server
         # Change the Azure Container Registry URL below
-        image: k8sdemoss.azurecr.io/k8s_app:v1
+        image: k8sdemoss.azurecr.io/sarkaria2/k8s-training:latest
         imagePullPolicy: IfNotPresent
         volumeMounts:
         - name: db-credentials
