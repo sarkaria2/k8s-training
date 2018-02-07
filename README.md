@@ -1,3 +1,5 @@
+[<img src="https://finningdigital.visualstudio.com/_apis/public/build/definitions/cd7fad52-6296-4dd3-961b-8eefc0db47fb/10/badge"/>](https://finningdigital.visualstudio.com/k8s-training/_build/index?definitionId=cd7fad52-6296-4dd3-961b-8eefc0db47fb/10/)
+
 # Kubernetes Training: End-to-End Experience.
 
 This tutorial walks you through and end-to-end deployment of an application to a Kubernetes cluster.
